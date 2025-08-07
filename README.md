@@ -17,7 +17,7 @@ This project delivers a smart, conversational onboarding experience for **new hi
 
 ## 📲 Live Demo
 
-> 🔗 **Try it now on Telegram**: [@SriramAIOnboardingAssist_bot](https://web.telegram.org/k/#@SriramAIOnboardingAssist_bot)
+> 🔗 **Try it now on Telegram**: [@SriramAIOnboardingAssist_bot](https://t.me/SriramAIOnboardingAssist_bot)
 
 📌 **Sample Questions to Try**:
 - What documents do I need for my I-9 verification?
