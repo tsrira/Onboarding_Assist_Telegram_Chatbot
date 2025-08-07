@@ -65,15 +65,6 @@ This project delivers a smart, conversational onboarding experience for **new hi
 
 ---
 
-## ✅ Example Questions It Can Answer
-
-- What documents are needed for I-9 verification?
-- When is payday and how do I check my pay stubs?
-- What should I wear on my first day?
-- How do I set up direct deposit?
-
----
-
 ## 🔐 Prerequisites
 
 - Telegram Bot Token  
