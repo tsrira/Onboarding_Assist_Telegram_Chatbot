@@ -26,6 +26,8 @@ This project delivers a smart, conversational onboarding experience for **new hi
 - What is the dress code for store employees?
 - Who do I contact if I have a payroll issue?
 
+  And the quick demo with Telegram is here ---> [Target Onboarding Assist Bot - Demo](https://youtu.be/gAWO5dfMdh8)
+
 ---
 
 ## 📁 Project Files
