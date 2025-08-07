@@ -15,9 +15,16 @@ This project delivers a smart, conversational onboarding experience for **new hi
 
 ---
 
-## 📲 Live Demo (Optional)
+## 📲 Live Demo
 
-> 🔗 **Demo Telegram Bot**: [@TargetOnboardingBot](https://t.me/TargetOnboardingBot)
+> 🔗 **Try it now on Telegram**: [@SriramAIOnboardingAssist_bot](https://web.telegram.org/k/#@SriramAIOnboardingAssist_bot)
+
+📌 **Sample Questions to Try**:
+- What documents do I need for my I-9 verification?
+- When will I receive my schedule?
+- How do I set up or change my direct deposit?
+- What is the dress code for store employees?
+- Who do I contact if I have a payroll issue?
 
 ---
 
